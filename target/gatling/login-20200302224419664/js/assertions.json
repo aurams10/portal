@@ -1,0 +1,10 @@
+{
+  "simulation": "Clientes.login",
+  "simulationId": "login",
+  "start": 1583189059664,
+  "description": "",
+  "scenarios": ["AUTENTICACION DE USUARIO EN PORTAL E-COMMERCE"],
+  "assertions": [
+
+  ]
+}

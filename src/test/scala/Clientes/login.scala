@@ -189,13 +189,13 @@ class login extends Simulation {
       session
     }
 
-  println(s"La cantidad de usuarios para la prueba será de $numberUsers")
+ println(s"La cantidad de usuarios para la prueba será de $numberUsers")
   println(s"El tiempo para la prueba sera de $totalSeconds segundos")
- println(s"La duración maxima de la prueba será de $maxDuration segundos")
-  setUp(scn.inject(constantConcurrentUsers(numberUsers)during (totalSeconds)).protocols(httpProtocol)).maxDuration(maxDuration)
+println(s"La duración maxima de la prueba será de $maxDuration segundos")
+ setUp(scn.inject(constantConcurrentUsers(numberUsers)during (totalSeconds)).protocols(httpProtocol)).maxDuration(maxDuration)
 
 
  // setUp(scn.inject(constantUsersPerSec(3) during  (600)).protocols(httpProtocol)).maxDuration(600)
 
- // setUp(scn.inject(atOnceUsers(1))).protocols(httpProtocol)
+ //setUp(scn.inject(atOnceUsers(1))).protocols(httpProtocol)
 }
