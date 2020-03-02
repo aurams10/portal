@@ -1,0 +1,10 @@
+{
+  "user": {
+    "email": "${email}",
+    "login": "${login}",
+    "first_name": "${first_name}",
+    "last_name": "${last_name}",
+    "doc_num": "${doc_num}",
+    "doc_type": "1"
+  }
+}

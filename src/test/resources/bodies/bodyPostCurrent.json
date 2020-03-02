@@ -1,0 +1,138 @@
+{
+  "shoppingCart": {
+    "items": [
+      {
+        "productId": "HER-B-RED-DEP-TER-013",
+        "quantity": 1,
+        "repositoryId": "ci28005221",
+        "availabilityDate": "2019-12-31T00:00:00.000Z",
+        "catRefId": "HER-2-162-martes-baja",
+        "expanded": false,
+        "stockStatus": true,
+        "stockState": "IN_STOCK",
+        "orderableQuantityMessage": "",
+        "commerceItemQuantity": 1,
+        "orderableQuantity": 5,
+        "selectedOptions": [
+          {
+            "optionName": "Sede",
+            "optionValue": "Avenida 68"
+          },
+          {
+            "optionName": "Género",
+            "optionValue": "Mixto"
+          },
+          {
+            "optionName": "Modalidad",
+            "optionValue": "Cancha sintética"
+          },
+          {
+            "optionName": "Demanda",
+            "optionValue": "baja"
+          },
+          {
+            "optionName": "Dia",
+            "optionValue": "martes"
+          }
+        ],
+        "selectedSkuProperties": [],
+        "discountInfo": [],
+        "rawTotalPrice": 9200,
+        "detailedItemPriceInfo": [
+          {
+            "discounted": false,
+            "secondaryCurrencyTaxAmount": 0,
+            "amount": 9200,
+            "quantity": 1,
+            "tax": 0,
+            "orderDiscountShare": 0,
+            "detailedUnitPrice": 9200,
+            "currencyCode": "COP"
+          }
+        ],
+        "externalData": [],
+        "addOnItem": false,
+        "displayName": "",
+        "invalid": false,
+        "commerceItemId": "ci1582835578974798941",
+        "priceListGroupId": "tarifaCategoriaB",
+        "giftWithPurchaseCommerceItemMarkers": [],
+        "_date": "2020-03-03T00:00:00.000Z",
+        "_endTimeItem": "06:50:00",
+        "_startTimeItem": "06:00:00",
+        "_discount": null,
+        "_weekDays": null,
+        "_headquarters": null,
+        "_subStage": "Tenis De Campo No. 11",
+        "_price": null,
+        "_numberDocument": null,
+        "_stage": "Canchas Tenis de Campo Avenida 68",
+        "_level": null,
+        "_nameServicesPyS": null,
+        "_identificationType": null,
+        "_nameClient": null,
+        "_schedule": null,
+        "_requirements": null,
+        "price": 9200
+      }
+    ],
+    "coupons": []
+  },
+  "combineLineItems": "yes",
+  "payments": [],
+  "id": "570805",
+  "_documentNumber2": null,
+  "_discount": 0,
+  "_orderExpirationDate": null,
+  "_proveOfPayment": null,
+  "_name": "nombre requerido",
+  "_phone": 0,
+  "_paymentMethod": "Banco",
+  "_total": 0,
+  "_channel": "Virtual",
+  "_documentType": "CC",
+  "_paymentDateTime": null,
+  "_stateDescription": null,
+  "_tax": 0,
+  "_subtotal": 0,
+  "_acceptanceRequirements": "campo requerido",
+  "_numberQuotation2": null,
+  "_orderState": null,
+  "shippingMethod": {
+    "value": "200001"
+  },
+  "shippingAddress": {
+    "alias": "Address",
+    "prefix": "",
+    "firstName": "ANDREA",
+    "middleName": "",
+    "lastName": "LOPEZ",
+    "suffix": "",
+    "country": "Colombia",
+    "postalCode": "11011",
+    "address1": "Cra 13 94a-20",
+    "address2": "",
+    "address3": "",
+    "city": "Bogota",
+    "state": "Distrito Capital de Bogotá",
+    "county": "",
+    "phoneNumber": "3143040501",
+    "email": "1-13718984@compensar.com",
+    "jobTitle": "",
+    "companyName": "",
+    "faxNumber": "",
+    "type": "",
+    "repositoryId": "3570336",
+    "isDefaultBillingAddress": false,
+    "isDefaultShippingAddress": false,
+    "selectedCountry": "CO",
+    "selectedState": "DC",
+    "state_ISOCode": "CO-DC",
+    "isDefaultAddress": true
+  },
+  "populateShippingMethods": true,
+  "checkout": true,
+  "clearCoupons": false,
+  "merge": false,
+  "op": "update"
+}

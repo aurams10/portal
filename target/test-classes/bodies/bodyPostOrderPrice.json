@@ -1,0 +1,111 @@
+{
+  "shoppingCart": {
+    "items": [
+      {
+        "productId": "${productId}",
+        "quantity": 1,
+        "repositoryId": "",
+        "availabilityDate": null,
+        "catRefId": "HER-2-162-viernes-baja",
+        "expanded": false,
+        "stockStatus": true,
+        "stockState": "",
+        "commerceItemQuantity": 1,
+        "selectedOptions": [
+          {
+            "optionName": "Sede",
+            "optionValue": "Avenida 68"
+          },
+          {
+            "optionName": "Género",
+            "optionValue": "Mixto"
+          },
+          {
+            "optionName": "Modalidad",
+            "optionValue": "Cancha sintética"
+          },
+          {
+            "optionName": "Demanda",
+            "optionValue": "baja"
+          },
+          {
+            "optionName": "Dia",
+            "optionValue": "viernes"
+          }
+        ],
+        "selectedSkuProperties": [],
+        "discountInfo": [],
+        "rawTotalPrice": 7300,
+        "detailedItemPriceInfo": [
+          {
+            "discounted": false,
+            "secondaryCurrencyTaxAmount": 0,
+            "amount": 7300,
+            "quantity": 1,
+            "tax": 0,
+            "orderDiscountShare": 0,
+            "detailedUnitPrice": 7300,
+            "currencyCode": "COP"
+          }
+        ],
+        "externalData": [],
+        "addOnItem": false,
+        "displayName": "",
+        "invalid": false,
+        "commerceItemId": "ci1582688919294803601",
+        "priceListGroupId": "tarifaCategoriaA",
+        "giftWithPurchaseCommerceItemMarkers": [],
+        "_date": "2020-02-28T00:00:00.000Z",
+        "_endTimeItem": "11:50:00",
+        "_startTimeItem": "11:00:00",
+        "_discount": null,
+        "_weekDays": null,
+        "_headquarters": null,
+        "_subStage": "Tenis De Campo No. 11",
+        "_price": null,
+        "_numberDocument": null,
+        "_stage": "Canchas Tenis de Campo Avenida 68",
+        "_level": null,
+        "_nameServicesPyS": null,
+        "_identificationType": null,
+        "_nameClient": null,
+        "_schedule": null,
+        "_requirements": null
+      }
+    ],
+    "coupons": []
+  },
+  "combineLineItems": "yes",
+  "payments": [],
+  "_documentNumber2": null,
+  "_discount": 0,
+  "_orderExpirationDate": null,
+  "_proveOfPayment": null,
+  "_name": "nombre requerido",
+  "_phone": 0,
+  "_paymentMethod": "Banco",
+  "_total": 0,
+  "_channel": "Virtual",
+  "_documentType": "CC",
+  "_paymentDateTime": null,
+  "_stateDescription": null,
+  "_tax": 0,
+  "_subtotal": 0,
+  "_acceptanceRequirements": "campo requerido",
+  "_numberQuotation2": null,
+  "_orderState": null,
+  "shippingGroups": [
+    {
+      "items": [
+        {
+          "productId": "${productId}",
+          "catRefId": "HER-2-162-viernes-baja",
+          "quantity": 1,
+          "commerceItemId": "ci1582688919294803601"
+        }
+      ],
+      "type": "hardgoodShippingGroup",
+      "shippingGroupId": "0"
+    }
+  ]
+}
